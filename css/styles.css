@@ -127,3 +127,12 @@ div p{
     text-wrap: balance;
     max-width: 560px;
 }
+
+.digital_art{
+    display:inline-block;
+    margin-left:auto;
+    margin-right:auto;
+    border-style:none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
