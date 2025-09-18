@@ -176,7 +176,7 @@ footer{
     text-align: center;
     font-family: 'Arial', sans-serif;
     font-size: 15px;
-    color: white;
+    color: black;
 
 }
 .offpage{
@@ -185,4 +185,5 @@ footer{
 }   
 iframe{
     border:none
+
 }
