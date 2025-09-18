@@ -183,3 +183,6 @@ footer{
     position: absolute;
     left: -1000px;
 }   
+iframe{
+    border:none
+}
